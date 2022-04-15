@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me receponuroka@gmail.com.
+- 📫 How to reach me receponurokan@gmail.com.
 
 <!---
 RecepOnurOkan/RecepOnurOkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
